@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76ed92aa-4ca4-40bb-8736-5df01abcd498" name="Default Changelist" comment="" />
+    <list default="true" id="76ed92aa-4ca4-40bb-8736-5df01abcd498" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Yqbe30gvyczyfiSLZzJQ0c0ZFb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +35,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="findjar.last.used.dir" value="$USER_HOME$/Downloads" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/lib/activation-1.1.1.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -113,22 +120,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="666" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583674847016" />
-    <state width="1877" height="376" key="GridCell.Tab.0.bottom" timestamp="1583675474097">
+    <state width="1877" height="376" key="GridCell.Tab.0.bottom" timestamp="1583675622663">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="376" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583675474097" />
-    <state width="1877" height="376" key="GridCell.Tab.0.center" timestamp="1583675474096">
+    <state width="1877" height="376" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583675622663" />
+    <state width="1877" height="376" key="GridCell.Tab.0.center" timestamp="1583675622663">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="376" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583675474096" />
-    <state width="1877" height="376" key="GridCell.Tab.0.left" timestamp="1583675474096">
+    <state width="1877" height="376" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583675622663" />
+    <state width="1877" height="376" key="GridCell.Tab.0.left" timestamp="1583675622663">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="376" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583675474096" />
-    <state width="1877" height="376" key="GridCell.Tab.0.right" timestamp="1583675474096">
+    <state width="1877" height="376" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583675622663" />
+    <state width="1877" height="376" key="GridCell.Tab.0.right" timestamp="1583675622663">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="376" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583675474096" />
+    <state width="1877" height="376" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583675622663" />
     <state x="440" y="95" key="SettingsEditor" timestamp="1583675290897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
